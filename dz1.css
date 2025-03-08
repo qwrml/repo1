@@ -1,0 +1,13 @@
+body {
+    font-size: 24px;
+}
+.bold {
+    font-weight: bold;
+}
+.bi {
+    font-weight: bold;
+    font-style: italic;
+}
+.italic {
+    font-style: italic;
+}
